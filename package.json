@@ -1,0 +1,21 @@
+{
+  "name": "multi-token-standard-abi",
+  "version": "1.0.0",
+  "description": "Abi collection for erc1155 token standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multi-token-standard",
+    "abi",
+    "erc1155abi",
+    "erc1155"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshuchawla009/multi-token-standard-abi"
+  },
+  "author": "Himanshu Chawla",
+  "license": "ISC"
+}
