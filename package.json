@@ -1,6 +1,6 @@
 {
   "name": "multi-token-standard-abi",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Abi collection for erc1155 token standard",
   "main": "index.js",
   "scripts": {
